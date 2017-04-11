@@ -1,0 +1,22 @@
+{
+  "name": "furrygame",
+  "version": "1.0.0",
+  "description": "## Przygotowanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpwalkiewicz/WAR_FRO_S_16_Furry_game.git"
+  },
+  "author": "Jan Walkiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpwalkiewicz/WAR_FRO_S_16_Furry_game/issues"
+  },
+  "homepage": "https://github.com/jpwalkiewicz/WAR_FRO_S_16_Furry_game#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2"
+  }
+}
